@@ -1,0 +1,21 @@
+//
+//  atrust.pch
+//  atrustpay
+//
+//  Created by allen on 15/9/7.
+//  Copyright (c) 2015年 itazk. All rights reserved.
+//
+
+#ifndef atrustpay_atrust_pch
+#define atrustpay_atrust_pch
+
+#import "UIColor+YUColor.h"
+#import "Const.h"
+#import "UIColor+Expanded.h"
+#import "UIView+Additions.h"
+#import "MBProgressHUD.h"
+#import "Tools.h"
+#import "MyLabel.h"
+#import "UserModel.h"
+
+#endif
